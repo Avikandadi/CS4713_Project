@@ -1,0 +1,13 @@
+results
+RobustTrees/data/binary_mnist0*
+RobustTrees/data/mnist_raw
+RobustTrees/models
+RobustTrees/.git
+RobustTrees/**/*.o
+RobustTrees/xgboost
+RobustTrees/lib
+gurobi
+.git
+*.pdf
+claude_code_prompt.md
+SETUP.md

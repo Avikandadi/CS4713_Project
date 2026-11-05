@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- RobustTrees reproduction ---
+# Authors' fork: re-clone with  git clone --recursive https://github.com/chenhongge/RobustTrees.git
+# (also holds the generated dataset and trained models)
+RobustTrees/
+# Gurobi WLS license: secret, never commit
+gurobi/
+*.lic
